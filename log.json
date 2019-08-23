@@ -1,0 +1,15 @@
+{
+  "employees": [
+    {
+      "name": "Yavanni",
+      "all_work": [
+        {
+          "start_time": "2019-08-23T15:59:59.070067-04:00",
+          "end_time": "2019-08-23T15:59:59.070067-04:00",
+          "total_time": "00:00:00",
+          "on_what": "Added employee!"
+        }
+      ]
+    }
+  ]
+}
