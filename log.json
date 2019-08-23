@@ -21,6 +21,17 @@
           "on_what": "Added employee!"
         }
       ]
+    },
+    {
+      "name": "Jachro",
+      "all_work": [
+        {
+          "start_time": "2019-08-23T16:26:02.3368647-04:00",
+          "end_time": "2019-08-23T16:26:02.3378627-04:00",
+          "total_time": "00:00:00",
+          "on_what": "Added employee!"
+        }
+      ]
     }
   ]
 }
